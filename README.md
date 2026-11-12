@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/kirito-al12/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/kirito-al12/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/kirito-al12/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/kirito-al12/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/kirito-al12/legion-del-mal?cacheSeconds=60)
 
 
 
